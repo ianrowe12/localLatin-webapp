@@ -6,6 +6,7 @@ config.yaml
 *.db
 frontend/node_modules/
 frontend/dist/
+frontend/tsconfig.tsbuildinfo
 .venv/
 *.egg-info/
 .mypy_cache/
